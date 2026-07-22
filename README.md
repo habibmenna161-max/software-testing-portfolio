@@ -14,7 +14,6 @@ I am learning step by step and building real projects.
 ### Test Details
 - Website: https://www.saucedemo.com/
 - Testing Type: Exploratory Testing (Manual)
-- 
 ### Observations:
 - **Login**: Successful using `standard_user` / `secret_sauce`
 - **Website Name**: Swag Labs
@@ -23,4 +22,3 @@ I am learning step by step and building real projects.
   2. Easy to use
 - **Suggestion for improvement**:
 - Put the "Buy" button beside the "Add to Cart" button for better user experience.
-  - Put the "Buy" button beside the "Add to Cart" button for better user experience.
