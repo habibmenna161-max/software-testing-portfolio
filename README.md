@@ -89,6 +89,7 @@ The objective of this project was to explore the Swag Labs website and evaluate 
 - Course: Python Programming Basics
 - Completion Date: June 16, 2026
 - Course Duration: 1 hour 38 minutes
+- ![Python Programming Basics Certificate](Screenshot_4-9-2026_124946_.jpeg)
 
 ---
 
