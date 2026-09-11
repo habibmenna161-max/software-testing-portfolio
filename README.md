@@ -133,7 +133,7 @@ My contribution included implementing:
 
 ### 🖥️ Project Screenshot
 
-![ParkPulse GUI](Project-Screenshots/ParkPulse/parkpulse-gui.png)
+![ParkPulse GUI](Project-Screenshots/ParkPulse/parkpulse-gui.jpg)
 ---
 ## 🛠️ Skills & Tools
  
