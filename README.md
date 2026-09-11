@@ -81,7 +81,7 @@ The bug was documented with reproduction steps and screenshot evidence.
 
 ### 🖥️ Project Screenshot
 
-![Swag Labs Products Page](Project-Screenshots/Swag-Labs/swag-labs-products.png)
+![Swag Labs Products Page](Project-Screenshots/Swag-Labs/swag-labs-products.jpeg)
 ---
 
 ### Project 2: ParkPulse – Amusement Park Management System
