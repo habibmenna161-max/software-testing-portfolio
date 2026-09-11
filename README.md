@@ -79,10 +79,64 @@ The bug was documented with reproduction steps and screenshot evidence.
 - [Bug Report](Bug-Reports/Swag%20Labs/BUG-001.md)
 - [Test Summary](Test-Summary/Swag-Labs-Test-Summary.md)
 
+### 🖥️ Project Screenshot
+
+![Swag Labs Products Page](Project-Screenshots/Swag-Labs/swag-labs-products.png)
 ---
 
-## 🛠️ Skills & Tools
+### Project 2: ParkPulse – Amusement Park Management System
 
+**Project Type:** Team Software Development Project
+
+**Language:** Java
+
+**Development Approach:** Object-Oriented Programming (OOP)
+
+#### 🎯 Project Overview
+
+ParkPulse is a Java-based Amusement Park Management System designed to manage different park operations, including customers, employees, rides, tickets, bookings, payments, food items, and offers.
+
+The project was developed as a team project using Java and Object-Oriented Programming concepts.
+
+#### 🛠️ Technologies & Concepts
+
+- Java
+- Object-Oriented Programming (OOP)
+- Java Swing GUI
+- Git & GitHub
+- Team Collaboration
+
+#### 👩‍💻 My Contribution
+
+I worked on the **Users & Staff Hierarchy** section of the system.
+
+My contribution included implementing:
+
+- `Person` – Abstract base class for common person information.
+- `Customer` – Represents park customers and manages customer-related attributes.
+- `Employees` – Base class for employee information.
+- `Manager` – Represents the manager role.
+- `Cashier` – Represents the cashier role.
+- `RideOperator` – Represents the ride operator role.
+
+#### 📚 OOP Concepts Applied
+
+- Abstraction
+- Inheritance
+- Encapsulation
+- Constructors
+- Class Relationships
+
+#### 🔗 Project Repository
+
+[View the Amusement Park Management System on GitHub](https://github.com/hagarabseed/Amusement-Park-System)
+
+### 🖥️ Project Screenshot
+
+![ParkPulse GUI](Project-Screenshots/ParkPulse/parkpulse-gui.png)
+---
+## 🛠️ Skills & Tools
+ 
 ### Testing
 
 - Manual Testing
